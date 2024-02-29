@@ -2,7 +2,7 @@
 
 - 👋 Hello world! My name is Rustam(Rus) Zakirov 🙂
 - 📍 I am 🇨🇦 Toronto, ON based.
-- 👀 I’m interested in 🏋️‍♂️ gym workouts, 🏂 snowboarding, 🧳 travelling, 📚 reading history, sociology and classical litrature, 🎨 drawing and so much more!
+- 👀 I’m interested in 🏋️‍♂️ gym workouts, 🏂 snowboarding, 🧳 travelling, 📚 learning tech and design and so much more!
 - 🌱 I’m currently learning 👨🏻‍💻 full stack web dev at 🏫 Trios College.
 
 <!---
