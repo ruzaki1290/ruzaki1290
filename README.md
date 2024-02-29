@@ -1,4 +1,4 @@
-## Let me introduce myself 🙋🏻‍♂️
+## 🙋🏻‍♂️ Let me introduce myself
 
 - 👋 Hello world, my name is Rustam(Rus) Zakirov.
 - 📍 I am 🇨🇦 Toronto, ON based.
