@@ -1,4 +1,4 @@
-## 🙋🏻‍♂️ My Bio
+## 🙋🏻‍♂️ Bio
 
 - 👋 Hello world, my name is Rustam(Rus) Zakirov.
 - 📍 I am 🇨🇦 Toronto, ON based.
